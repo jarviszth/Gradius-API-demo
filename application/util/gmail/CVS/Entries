@@ -1,0 +1,20 @@
+D/extras////
+D/language////
+D/test////
+/.gitignore/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/.scrutinizer.yml/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/.travis.yml/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/LICENSE/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/PHPMailerAutoload.php/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/README.md/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/VERSION/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/changelog.md/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/class.phpmailer.php/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/class.phpmaileroauth.php/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/class.phpmaileroauthgoogle.php/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/class.pop3.php/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/class.smtp.php/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/composer.json/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/composer.lock/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/get_oauth_token.php/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
+/travis.phpunit.xml.dist/1.1.1.1/Thu Apr 06 01:22:43 2017/-kkv/
